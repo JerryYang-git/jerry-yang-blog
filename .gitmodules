@@ -1,0 +1,6 @@
+[submodule "themes/hexo-theme-oranges"]
+	path = themes/hexo-theme-oranges
+	url = https://github.com/zchengsite/hexo-theme-oranges.git
+[submodule "themes/themes/oranges"]
+	path = themes/themes/oranges
+	url = https://github.com/zchengsite/hexo-theme-oranges.git
